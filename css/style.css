@@ -67,7 +67,7 @@ body{
 .b_content h1{
 	margin: 0;
 	text-align: center;
-	font-size: 60px;
+	font-size: 67px;
 	line-height: 75px;
 }
 .b_content h1 span{
@@ -75,7 +75,7 @@ body{
 }
 .b_content p{
 	margin: 10px 0 25px;
-	padding: 0 15px;
+	padding: 0 0px;
 	line-height:30px ;
 }
 .b_img{
